@@ -19,7 +19,7 @@ section {
 }
 .btn {
     display: inline-block;
-    padding: .8rem 3rem;
+    padding: .9rem 3rem;
     border: .2rem solid var(--red);
     color:#000000;
     cursor: pointer;
